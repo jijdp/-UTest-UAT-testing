@@ -1,6 +1,6 @@
 UAT Test
 The scope is to test the functionality of the application (Main Focus on Ipad's version)
-- I performed the exploratory test and UAT Test using TestFlight and log in with user id.
+- I performed the exploratory test using TestFlight and log in with user id.
 - I focused on the customer page, explore and testing on adding new customer with valid and invalid customer.
 - I found the bug and report the actioned performed, expected and actual result to the project lead.
 - I also studied on the other testers projects how their test passing and rejecting to understand on testing on and outside the scope.
